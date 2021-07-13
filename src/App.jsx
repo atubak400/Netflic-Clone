@@ -1,5 +1,12 @@
-const App = () => {
-  return <div>Hello world!</div>;
-};
+import Home from './home/Home.jsx'
+import './app.scss'
 
-export default App;
+const App = () => {
+  return (
+    <div>
+      <Home />
+    </div>
+  )
+}
+
+export default App
