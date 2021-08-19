@@ -20,6 +20,16 @@ export default function ListItem() {
           <ThumbUpAltOutlined />
           <ThumbDownAltOutlined />
         </div>
+        <div className='itemInfoTop'>
+          <span>1 hour 14 mins</span>
+          <span className='limit'>+16</span>
+          <span>1999</span>
+          <div className='desc'>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
+            tempora ea praesentium aperiam voluptates consectetur deleniti.
+          </div>
+          <div className='genre'>Action</div>
+        </div>
       </div>
     </div>
   )
