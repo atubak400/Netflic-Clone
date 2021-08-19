@@ -26,7 +26,7 @@ export default function Featured({ type }) {
         </div>
       )}
       <img
-        src='https://kingsleyatuba.com/wp-content/uploads/2021/05/mee-300x300.jpeg'
+        src='https://www.whats-on-netflix.com/wp-content/uploads/2015/10/the-matrix-revolutions-1024x498.jpg'
         alt=''
       />
       <div className='info'>
@@ -35,9 +35,10 @@ export default function Featured({ type }) {
           alt=''
         />
         <span className='desc'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium,
-          quis autem reprehenderit nemo placeat optio ipsam temporibus corrupti
-          molestiae. Distinctio.
+          Have you ever had a dream that you were so sure was real? What if you
+          couldn't awaken? How would you know the difference between dream and
+          reality? When a beautiful stranger (Carrie Ann Moss) leads computer
+          hacker Neo (Keanu Reeves) to a forbidding underworld.
         </span>
         <div className='buttons'>
           <button className='play'>
