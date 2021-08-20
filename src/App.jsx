@@ -1,10 +1,10 @@
-import Home from './home/Home.jsx'
+import Home from './pages/home/Home'
 import './app.scss'
-
+import Watch from './pages/watch/Watch'
 const App = () => {
   return (
     <div>
-      <Home />
+      <Watch />
     </div>
   )
 }
